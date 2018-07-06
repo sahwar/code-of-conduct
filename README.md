@@ -21,7 +21,7 @@ f my actions.
 ## Reference
 
 * [Disclaimer - Wikipedia](https://en.wikipedia.org/wiki/Disclaimer)
-s
+
 ## License
 
 MIT
