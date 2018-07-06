@@ -12,7 +12,8 @@ This is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/)
 4. If I think you are right, I will try not to harm you again and I will say I'm sorry. I might give an explanation of my actions.
 5. If I think you are wrong, I will let you know. I might give an explanation of my actions.
 6. If you want to harm me, I would like to know your reasons, please e-mail me and write in Spanish or English.
-7. If you want to harm me, please limit your scope to my body, my possessions, my data, or my reputation and strictly avoid any harm to anyone related to me. I don't want anyone to be hurt for their association with me.
+7. If you want to harm me, please limit your scope to my body, my possessions, my data, or my reputation.
+8. If you want to harm me, please strictly avoid any harm to anyone related to me. I don't want anyone to be hurt for their association with me.
 8. If you try to hurt me, I will try to defend myself.
 
 ## Reference
